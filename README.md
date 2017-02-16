@@ -30,5 +30,5 @@ React Native 使你能够使用基于 JavaScript 和 React 一致的开发体验
 第三部分 热更新和上线
 
 第四部分 项目实战
-
+资讯类APP
 
