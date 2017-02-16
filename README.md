@@ -10,7 +10,7 @@
 
 react：https://facebook.github.io/react/
 
-react 翻译： http://reactjs.cn/react/index.html
+react 翻译： http://reactjs.cn/react/index.html  http://wiki.jikexueyuan.com/project/react/
 
 Facebook 在 React.js Conf 2015 大会上推出了基于 JavaScript 的开源框架 React Native。
 
