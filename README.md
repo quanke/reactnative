@@ -1,5 +1,6 @@
 # React Native 零基础到实战
 
+阅读地址：https://quanke.gitbooks.io/react-native/content/
 
 
 Facebook 在 React.js Conf 2015 大会上推出了基于 JavaScript 的开源框架 React Native。
