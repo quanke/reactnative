@@ -11,6 +11,8 @@ React Native 结合了 Web 应用和 Native 应用的优势，可以使用 JavaS
 
 React Native 使你能够使用基于 JavaScript 和 React 一致的开发体验在本地平台上构建世界一流的应用程序体验。React Native 把重点放在所有开发人员关心的平台的开发效率上——开发者只需学习一种语言就能轻易为任何平台高效地编写代码(Learn once, write anywhere)。Facebook 在多个应用程序产品中使用了 React Native，并将继续为 React Native 投资。
 
+
+
 第一部分 React 基础
 
 第二部分 React Native 基础
