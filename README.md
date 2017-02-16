@@ -24,7 +24,7 @@ React Native 使你能够使用基于 JavaScript 和 React 一致的开发体验
 
 
 * [第一部分 React 基础](react.md)
-    * [第一部分 React 基础](react.md)
+    * [React 简]()
 
 
 
