@@ -2,4 +2,4 @@
 
 第一部分 React 基础
 
-第二部分 React Native
+第二部分 React Native 基础
